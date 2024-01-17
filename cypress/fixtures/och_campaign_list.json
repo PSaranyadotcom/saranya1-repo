@@ -1,0 +1,96 @@
+{
+  "has_next": true,
+  "page": 1,
+  "per_page": 20,
+  "results": [
+    {
+      "createdAt": "2023-11-21T18:04:54.80396Z",
+      "description": "edited test description",
+      "endDate": "2023-12-08T04:45:23Z",
+      "id": "ac3f2743-b62f-48de-8e0a-332a3234766c",
+      "name": "Test Campaign_WygyV",
+      "startDate": "2023-09-20T04:45:23Z",
+      "status": "defined",
+      "type": "fixed_period",
+      "updatedAt": "2023-11-21T18:05:03.117588Z"
+    },
+    {
+      "createdAt": "2023-11-21T18:05:34.017343Z",
+      "description": "Test campaign1",
+      "endDate": "2023-12-20T04:45:23Z",
+      "id": "f917c866-f2df-42df-8b3a-6acf30437210",
+      "name": "Test Campaign_yxnkC",
+      "startDate": "2023-08-20T04:45:23Z",
+      "status": "ready",
+      "type": "fixed_period",
+      "updatedAt": "2023-11-21T18:05:34.117361Z"
+    },
+    {
+      "createdAt": "2023-11-21T18:05:49.005051Z",
+      "description": "Test campaign1",
+      "endDate": "2023-12-20T04:45:23Z",
+      "id": "414bb33d-48d1-4752-8151-ea5e7c17db6c",
+      "name": "Test Campaign_H7DzC",
+      "startDate": "2023-08-20T04:45:23Z",
+      "status": "approved",
+      "type": "fixed_period",
+      "updatedAt": "2023-11-22T16:47:04.957569Z"
+    },
+    {
+      "createdAt": "2023-11-23T17:39:11.961253Z",
+      "description": "Test campaign1",
+      "endDate": "2023-12-20T04:45:23Z",
+      "id": "c7b6424f-bf5a-4615-bb40-7668551e54a8",
+      "name": "Test Campaign_98L0v",
+      "startDate": "2023-08-20T04:45:23Z",
+      "status": "published",
+      "type": "fixed_period",
+      "updatedAt": "2023-11-23T17:39:12.60907Z"
+    },
+    {
+      "createdAt": "2023-11-22T16:37:43.995251Z",
+      "description": "Test campaign1",
+      "endDate": "2023-12-20T04:45:23Z",
+      "id": "58c98c08-d5c2-470e-aaaf-9b442a4a19d7",
+      "name": "Test Campaign_VDtIH",
+      "startDate": "2023-08-20T04:45:23Z",
+      "status": "live",
+      "type": "fixed_period",
+      "updatedAt": "2023-11-22T17:55:01.564006Z"
+    },
+    {
+      "createdAt": "2023-11-15T13:03:18.806887Z",
+      "description": "AC 2 Test Campaingn",
+      "endDate": "2023-12-20T04:45:23Z",
+      "id": "8cdf94b6-ce84-4f67-8f22-f54ce631e533",
+      "name": "Test Campaign_uUkNS",
+      "startDate": "2023-11-20T04:45:23Z",
+      "status": "completed",
+      "type": "fixed_period",
+      "updatedAt": "2023-11-21T17:55:25.811994Z"
+    },
+    {
+      "createdAt": "2023-11-15T15:22:16.43904Z",
+      "description": "AC 5 Test Campaingn",
+      "endDate": "2023-12-20T04:45:23Z",
+      "id": "85cbb04d-0643-4a34-8c47-1b46145e2950",
+      "name": "Test Campaign_vH7wH",
+      "startDate": "2023-11-20T04:45:23Z",
+      "status": "cancelled",
+      "type": "fixed_period",
+      "updatedAt": "2023-11-21T17:55:25.811994Z"
+    },
+    {
+      "createdAt": "2023-11-21T18:05:38.248855Z",
+      "description": "Test campaign1",
+      "endDate": "2023-12-20T04:45:23Z",
+      "id": "7fa4b9fb-e582-4d2d-8571-7ac15672d975",
+      "name": "Test Campaign_a9Cdy",
+      "startDate": "2023-08-20T04:45:23Z",
+      "status": "suspended",
+      "type": "fixed_period",
+      "updatedAt": "2023-11-21T18:05:38.33697Z"
+    }
+  ],
+  "total": 8
+}

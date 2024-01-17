@@ -1,0 +1,92 @@
+{
+  "actionsMenu": [
+    {
+      "status": "Defined",
+      "actions": [
+        "Clone Campaign",
+        "View campaign history",
+        "Edit campaign"
+      ],
+      "delete": true
+    },
+    {
+      "status": "Ready",
+      "actions": [
+        "Clone Campaign",
+        "View campaign history",
+        "Edit campaign"
+      ],
+      "delete": true
+    },
+    {
+      "status": "Approved",
+      "actions": [
+        "Clone Campaign",
+        "View campaign history",
+        "Edit campaign"
+      ],
+      "delete": true
+    },
+    {
+      "status": "Published",
+      "actions": [
+        "Clone Campaign",
+        "View campaign history",
+        "Edit campaign"
+      ],
+      "delete": true
+    },
+    {
+      "status": "Live",
+      "actions": [
+        "Clone Campaign",
+        "View campaign history",
+        "Edit campaign"
+      ],
+      "delete": false
+    },
+    {
+      "status": "Suspended",
+      "actions": [
+        "Clone Campaign",
+        "View campaign history",
+        "Edit campaign"
+      ],
+      "delete": true
+    },
+    {
+      "status": "Cancelled",
+      "actions": [
+        "Clone Campaign",
+        "View campaign history"
+      ],
+      "delete": false
+    },
+    {
+      "status": "Completed",
+      "actions": [
+        "Clone Campaign",
+        "View campaign history"
+      ],
+      "delete": false
+    }
+  ],
+  "allStatus" : [
+    "Defined",
+    "Ready",
+    "Approved",
+    "Published",
+    "Live",
+    "Completed",
+    "Cancelled",
+    "Suspended"
+  ],
+  "activeStatus" : [
+    "Defined",
+    "Ready",
+    "Approved",
+    "Published",
+    "Live",
+    "Suspended"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "reporterEnabled": "spec, mocha-jenkins-reporter",
+    "reporterOptions": {
+      "junit_report_name": "Tests",
+      "junit_report_path": "results/",
+      "junit_report_stack": 1
+    }
+}
+
+
+

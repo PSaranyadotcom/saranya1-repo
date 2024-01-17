@@ -1,0 +1,26 @@
+{
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 15000,
+  "requestTimeout": 60000,
+  "responseTimeout": 60000,
+  "pageLoadTimeout": 90000,
+  "baseUrl": "http://localhost:8080",
+  "chromeWebSecurity": false,
+  "video": false,
+
+  "env": {
+    "something": "something",
+    "url":"https://rahulshettyacademy.com/seleniumPractise/#/",
+    "url1":"https://rahulshettyacademy.com/AutomationPractice/",
+    "url2":"https://rahulshettyacademy.com/angularpractice/"
+  },
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter-config.json"
+  }
+  
+    
+  }
+  
+
